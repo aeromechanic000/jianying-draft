@@ -1,0 +1,77 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "fps": 30.0,
+  "duration": 5000000,
+  "tracks": [
+    {
+      "type": "video",
+      "id": "060D39C2-F70E-4BC3-A232-8530103FC9FB",
+      "segments": [
+        {
+          "material_id": "90B54DE0-E2BC-4603-A33A-F494E8664E21",
+          "source_timerange": {
+            "start": 0,
+            "duration": 25170000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 25170000
+          },
+          "volume": 1.0,
+          "speed": 1.0,
+          "visible": true,
+          "clip": {
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "alpha": 1.0,
+            "rotation": 0.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            }
+          }
+        },
+        {
+          "material_id": "7F65BCBB-F324-4E9E-9D7C-E53E74FBCCE6",
+          "source_timerange": {
+            "start": 0,
+            "duration": 25170000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 25170000
+          },
+          "volume": 1.0,
+          "speed": 1.0,
+          "visible": true,
+          "clip": {
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "alpha": 1.0,
+            "rotation": 0.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

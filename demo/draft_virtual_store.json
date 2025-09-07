@@ -1,0 +1,26 @@
+{
+  "draft_materials": [],
+  "draft_virtual_store": [
+    {
+      "type": 0,
+      "value": []
+    },
+    {
+      "type": 1,
+      "value": [
+        {
+          "child_id": "90B54DE0-E2BC-4603-A33A-F494E8664E21",
+          "parent_id": ""
+        },
+        {
+          "child_id": "7F65BCBB-F324-4E9E-9D7C-E53E74FBCCE6",
+          "parent_id": ""
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "value": []
+    }
+  ]
+}
