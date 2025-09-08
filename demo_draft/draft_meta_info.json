@@ -1,0 +1,159 @@
+{
+  "cloud_package_completed_time": "",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_materials": [],
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "/Users/user/Movies/JianyingPro/User Data/Projects/com.lveditor.draft/My Video Project",
+  "draft_id": "DE2B2AC1-3E82-4309-BB9C-495A15BB55F3",
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "id": "fb0c9141cef14fb3a3c86ef7ed48d565",
+          "file_Path": "/Users/nil/Projects/jianying-draft/resources/space.mp4",
+          "duration": 5000000,
+          "width": 1920,
+          "height": 1080,
+          "type": 0,
+          "metetype": "video",
+          "create_time": 1757254559,
+          "import_time": 1757254559,
+          "import_time_ms": 1757254559000000,
+          "extra_info": "space.mp4",
+          "item_source": 1,
+          "md5": "",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          }
+        },
+        {
+          "id": "be4298cc7e904279987e1c7713160776",
+          "file_Path": "/Users/nil/Projects/jianying-draft/resources/mc.mp4",
+          "duration": 5000000,
+          "width": 1920,
+          "height": 1080,
+          "type": 0,
+          "metetype": "video",
+          "create_time": 1757254559,
+          "import_time": 1757254559,
+          "import_time_ms": 1757254559000000,
+          "extra_info": "mc.mp4",
+          "item_source": 1,
+          "md5": "",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          }
+        },
+        {
+          "id": "f2d3a50f088c42318d745b35a328d77f",
+          "file_Path": "/Users/nil/Projects/jianying-draft/resources/space.mp4",
+          "duration": 3000000,
+          "width": 1920,
+          "height": 1080,
+          "type": 0,
+          "metetype": "video",
+          "create_time": 1757254559,
+          "import_time": 1757254559,
+          "import_time_ms": 1757254559000000,
+          "extra_info": "space.mp4",
+          "item_source": 1,
+          "md5": "",
+          "roughcut_time_range": {
+            "duration": 3000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          }
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": [
+        {
+          "id": "1374ECD8-ECA1-4DD6-9BD5-C09402D73CF2",
+          "file_Path": "/Users/nil/Projects/jianying-draft/resources/fire.mp3",
+          "duration": 5000000,
+          "height": 0,
+          "width": 0,
+          "type": 8,
+          "metetype": "none",
+          "create_time": 1757254559,
+          "import_time": 1757254559,
+          "import_time_ms": 1757254559000000,
+          "extra_info": "{\"musicPanelType\": \"musictype_audio\",\"resouceType\": \"Local_Import\",\"resourceID\": \"1757254559477242\",\"signHeader\": false,\"url\": \"/Users/nil/Projects/jianying-draft/resources/fire.mp3\"}",
+          "item_source": 1,
+          "md5": "",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          }
+        }
+      ]
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "My Video Project",
+  "draft_new_version": "",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "/Users/user/Movies/JianyingPro/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [],
+  "draft_timeline_materials_size_": 18000000,
+  "draft_type": "",
+  "tm_draft_cloud_completed": "",
+  "tm_draft_cloud_modified": 0,
+  "tm_draft_create": 1757254559477340,
+  "tm_draft_modified": 1757254559477340,
+  "tm_draft_removed": 0,
+  "tm_duration": 13000000
+}

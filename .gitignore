@@ -6,6 +6,7 @@ __pycache__/
 .venv/
 .python-version
 .fslckout
+examples/
 
 .DS_Store
 
